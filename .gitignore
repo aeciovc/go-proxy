@@ -1,6 +1,6 @@
 ### Go ###
 # Binaries for programs and plugins
-/bin/*
+/bin/go-proxy
 
 # Test binary, build with `go test -c`
 *.test

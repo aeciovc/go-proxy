@@ -1,4 +1,4 @@
-Simple Proxy using golang
+Simple Proxy built with Golang
 ========================================================
 
 Usage
@@ -6,21 +6,16 @@ Usage
 
 Install dependencies:
 
-.. code-block:: console
-
     go get gopkg.in/elazarl/goproxy.v1
 
 Build:
 
-.. code-block:: console
-    
     go build -o bin/go-proxy main.go
 
 Run:
 
-.. code-block:: console
-    
     ./bin/go-proxy $(PORT_NUMBER)
 
+Testing:
 
-//you can test it on http://httpbin.org/headers
+http://httpbin.org/headers

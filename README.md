@@ -6,7 +6,7 @@ Usage
 
 Install dependencies:
 
-    go get gopkg.in/elazarl/goproxy.v1
+    go get github.com/elazarl/goproxy
 
 Build:
 

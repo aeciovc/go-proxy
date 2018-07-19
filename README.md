@@ -14,7 +14,7 @@ Build:
 
 Run:
 
-    ./bin/go-proxy $(PORT_NUMBER)
+    ./proxy.sh $(PORT_NUMBER)
 
 Testing:
 
